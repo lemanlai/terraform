@@ -1,0 +1,8 @@
+/*
+ dev backend config - only need for init command
+ */
+
+ bucket = "staging-leman-terraform-state"
+ key = "staging"
+ region = "us-east-2"
+ dynamodb_table = "staging-leman-terraform-state"
