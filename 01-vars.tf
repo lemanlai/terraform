@@ -9,3 +9,5 @@ variable "ami" {
     type = string
     description = "instance images"
 }
+
+#
